@@ -18,7 +18,7 @@ export default function Page() {
       "Pretty please",
       "With a cookies and cream cake on top",
       "What about fries ;)",
-      "Nani Atakula? Nani Atakulaa???"
+      "Nani Atakula? Nani Atakulaa???",
       "ACHA NIONGEE!!!",
       "But:*(",
       "OK sawa, I Only have a WANADRED BOB in my pocket",
